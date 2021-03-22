@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I really love this `README` feature, but writing `README` docs is probably my biggest weakness, just like ... as a Human.
+
+Please enjoy perusing my assorted collection of open-source code I've hacked on over the years. 💖
+
 <!--
 **ahayworth/ahayworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
